@@ -1,4 +1,4 @@
-# bridge
+.# bridge
 [http bridge](https://github.com/ton-connect/docs/blob/main/bridge.md) for tonconnect 2.0:
 
 ## requirements
